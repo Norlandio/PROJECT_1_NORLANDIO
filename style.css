@@ -1,5 +1,12 @@
 h1 {
-  color: red;
+  color: Purple;
+  
 }
+p {
+    color: black;
+    text-align: center;
+    font-family: copperplate;
+    font-size: 20px;
+    
 
 /* This is a single-line comment. For more info on CSS, go to https://www.w3schools.com/css/default.asp. */
